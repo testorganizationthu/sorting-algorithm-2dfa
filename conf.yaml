@@ -1,0 +1,6 @@
+folder: problem
+samples:
+    - cases: '[1..1]'
+title:
+    en: Sorting Algorithm 2dfa
+version: 2
